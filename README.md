@@ -1,9 +1,11 @@
 # Hello, World! My name is Leah (lay-uh) 👋.
 ## I am a full-stack engineer.
 
-### Socials:
+### Links:
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/lmvicente)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leahmvicente/)
+[![Personal Website](https://i.imgur.com/pTJjlUS.png)](https://leahvicente.com/)
+[![Resume](https://i.imgur.com/DkeS2Dy.png)](https://leahvicente.com/LeahVicenteResume.pdf)
 
 
 ### Tech Stack:
