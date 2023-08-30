@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello, World! My name is Leah (lay-uh) 👋.
+## I am a full-stack engineer.
+
+### Tech Stack:
+
+
+<img>https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white</img>
 
 <!--
 **lmvicente/lmvicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
